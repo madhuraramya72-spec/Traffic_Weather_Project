@@ -1,0 +1,5 @@
+pandas
+requests
+apache-airflow
+elasticsearch<9
+gunicorn==22.0.0
